@@ -1,6 +1,6 @@
 Website Testing For Glassman - Dental Clinic - Yogev & Idan
 REAMDE
-This project is an STR document presentation for Website Testing of the Glassman dental clinic.
+This project is an STR document with an STR presentation, for the website testing project of the Glassman dental clinic.
 Files
 1. docs file named - 'STR documant', this file contains an STR document.
 2. pptx file named - 'STR presentation', this file contains a presentation showing the STR document.
